@@ -39,14 +39,16 @@
     font-weight: 800;
 }
 #about-body h4{
-    font-size: 40px;
+    font-size: 37px;
     font-weight: 800;
 }
 #about-body .title-02{
     font-size: 24px;
+    font-weight: 700;
 }
 #about-body .title-01{
     font-size: 32px;
+    font-weight: 700;
 }
 .about-btn-1{
     background: #FF6433!important;
@@ -69,7 +71,6 @@
     margin: 10px 0px 12px 32px;
 }
 .about-gradient-bg{
-    height: 64vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
