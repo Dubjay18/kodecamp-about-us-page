@@ -179,3 +179,14 @@
 
     }
 }
+@media(max-width: 320px){
+    .about-bg-1{
+        height: 60vh;
+    }
+    .about-bg-2{
+        height: 60vh;
+    }
+    .about-bg-3{
+        height: 60vh;
+    }
+  }
