@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+.about-section-1 p{
+   width: 83%;
+   text-align: justify!important;
+}
 .About-hero-img{
     background-image: url("../images/about-hero.jpg");
     height: 68vh;
