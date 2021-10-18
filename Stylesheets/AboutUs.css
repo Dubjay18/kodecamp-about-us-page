@@ -147,6 +147,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.custom-rounded-prime {
+    border-radius: 14px!important;
+}
 /* .about-gradient-words{
     top: 20%;
     right: 50%;
